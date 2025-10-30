@@ -2,16 +2,15 @@
 <img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
 
 ## INTRODUCTION
-This project focuses on investigating a cyberattack by APT34 and producing a comprehensive report, documenting findings and outlining key recommendations for improving a client's cybersecurity posture.
+This project focuses on conducting a risk assessment for investigating a cyberattack by APT34 and producing a comprehensive report, documenting findings and outlining key recommendations for improving a client's cybersecurity posture.
 
 <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/93c86d1d-d95b-489a-88bc-55bf745eb839" />
 
 ## PROBLEM STATEMENT
-A leading tech corporation client experienced a sophisticated cyberattack by a notorious Advanced Persistent Threat (APT) group known as APT34. The attack, believed to be sponsored by a foreign government, has left the organisation's network compromised and valuable customer data and intellectual property have been stolen.
+The client has a fence around the perimeter of its property and a padlock on its entrance gate to prevent unauthorised access. However, the leadership team is concerned about potential risks and vulnerabilities that could compromise the security of its information and systems. They require a comprehensive risk assessment to identify potential security threats and vulnerabilities in their system or network.
 
 ## OBJECTIVES
-- **The objective of this project is to help the client conduct an initial investigation into APT34 and evaluate the potential impact of the attack on the organisation:**.
-- **Produce a comprehensive report documenting my findings and outlining key recommendations to improve the organisation's cybersecurity posture:**
+- **The goal of the risk assessment is to help the client prioritise and implement appropriate security measures to mitigate and minimise risks. This will ensure the confidentiality, integrity and availability of their information and systems, as well as protect their reputation and financial resources.
 
 ## TASKS
 - **Utilise various Open-source Intelligence(OSINT)tools and techniques to gather information on APT34**
