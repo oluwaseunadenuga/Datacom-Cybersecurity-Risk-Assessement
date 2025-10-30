@@ -21,15 +21,15 @@ The client has a fence around the perimeter of its property and a padlock on its
 - **Create a risk assessment report for the client that summarises the risk assessment findings**
 
 ## TOOL
-- **Microsoft Excel
+- Microsoft Excel
 - Risk Assessment Template
 
-- ## Links to Document used 
-- **•	NIST Guide for Conducting Risk Assessments.**
-- **•	SO/IEC 27001:2013 Information technology - Security techniques - Information security management systems - Requirements.**
-- **•	SANS Institute: Risk Assessment Methodologies.**
-- **•	Guide to Getting Started with a Cybersecurity Risk Assessment.**
-- **•	The Open Group Risk Management Standard.**
+- ## Links to the Document used 
+- **NIST Guide for Conducting Risk Assessments.**
+- **SO/IEC 27001:2013 Information technology - Security techniques - Information security management systems - Requirements.**
+- **SANS Institute: Risk Assessment Methodologies.**
+- **Guide to Getting Started with a Cybersecurity Risk Assessment.**
+- **The Open Group Risk Management Standard.**
 
 ## DEFINITIONS
 - **Risk assessment: a process of identifying potential risks, analysing their likelihood and potential impact, and implementing measures to mitigate those risks.**
@@ -47,17 +47,6 @@ The client has a fence around the perimeter of its property and a padlock on its
 - **Transfer risk: assign or move the risk to a third party.**
 - **Accept risk: acknowledge the risk and choose not to resolve, transfer or mitigate.**
 
-
-
-- **Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov**/**
-
-## Executive Summary
-This report provides actionable insights into APT34 (OilRig), an advanced persistent threat (APT) group linked to Iran. The findings outline the group's history, tactics, targets, and motivations, along with a comprehensive defense strategy. The goal is to enhance the client’s security posture and mitigate risks associated with APT34 attacks.
-
-## 1.0 Overview of APT34
-**History**
-
-APT34 has been active since at least 2014, conducting cyber-espionage campaigns that primarily target organisations in the Middle East and occasionally in other regions.  Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives.**
 
 ## Nation/State Association
 APT34 is widely attributed to Iran, with operations aligning closely with the nation’s strategic and geopolitical goals.
