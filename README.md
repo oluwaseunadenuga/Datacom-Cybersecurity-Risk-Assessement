@@ -20,16 +20,16 @@ The client has a fence around the perimeter of its property and a padlock on its
 - Assess risk levels for each risk scenario with additional measures:**
 - Create a risk assessment report for the client that summarises the risk assessment findings**
 
-## TOOL
+## TOOLS
 - Microsoft Excel
 - Risk Assessment Template
 
 - ## Links to sourced documents
 - **NIST Guide for Conducting Risk Assessments https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf  .**
-- **SO/IEC 27001:2013 Information technology - Security techniques - Information security management systems - Requirements.**
-- **SANS Institute: Risk Assessment Methodologies.**
-- **Guide to Getting Started with a Cybersecurity Risk Assessment.**
-- **The Open Group Risk Management Standard.**
+- **ISO/IEC 27001:2013 Information technology - Security techniques - Information security management systems - Requirements. https://www.iso.org/standard/27001**
+- **SANS Institute: Risk Assessment Methodologies https://www.sans.org/white-papers/32 .**
+- **Guide to Getting Started with a Cybersecurity Risk Assessment https://www.cisa.gov/sites/default/files/video/22_1201_safecom_guide_to_cybersecurity_risk_assessment_508-r1.pdf.**
+- **The Open Group Risk Management Standard https://www.opengroup.org/forum/security-forum-0/securityriskmanagement.**
 
 ## DEFINITIONS
 - **Risk assessment: a process of identifying potential risks, analysing their likelihood and potential impact, and implementing measures to mitigate those risks.**
