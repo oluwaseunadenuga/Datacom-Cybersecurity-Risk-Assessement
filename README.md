@@ -2,7 +2,7 @@
 <img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
 
 ## INTRODUCTION
-This project focuses on conducting a risk assessment for investigating a cyberattack by APT34 and producing a comprehensive report, documenting findings and outlining key recommendations for improving a client's cybersecurity posture.
+This project focuses on conducting a risk assessment for a client and helping in defining the context, assessing their risk matrix, and identifying potential risk scenarios
 
 <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/93c86d1d-d95b-489a-88bc-55bf745eb839" />
 
