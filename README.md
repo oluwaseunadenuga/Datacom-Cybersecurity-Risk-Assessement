@@ -24,7 +24,7 @@ The client has a fence around the perimeter of its property and a padlock on its
 - Microsoft Excel
 - Risk Assessment Template
 
-## Links
+## LINKS
 - **NIST Guide for Conducting Risk Assessments https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf .**
 - **ISO/IEC 27001:2013 Information technology - Security techniques - Information security management systems - Requirements. https://www.iso.org/standard/27001**
 - **SANS Institute: Risk Assessment Methodologies https://www.sans.org/white-papers/32 .**
