@@ -1,4 +1,4 @@
-# Datacom-Cybersecurity-Risk-Assessement
+#Datacom-Cybersecurity-Risk-Assessement 
 <img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
 
 ## INTRODUCTION
@@ -24,8 +24,9 @@ The client has a fence around the perimeter of its property and a padlock on its
 - Microsoft Excel
 - Risk Assessment Template
 
-- ## Links to sourced documents
-- **NIST Guide for Conducting Risk Assessments https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf  .**
+
+- ##Links to sourced documents
+- **NIST Guide for Conducting Risk Assessments https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf .**
 - **ISO/IEC 27001:2013 Information technology - Security techniques - Information security management systems - Requirements. https://www.iso.org/standard/27001**
 - **SANS Institute: Risk Assessment Methodologies https://www.sans.org/white-papers/32 .**
 - **Guide to Getting Started with a Cybersecurity Risk Assessment https://www.cisa.gov/sites/default/files/video/22_1201_safecom_guide_to_cybersecurity_risk_assessment_508-r1.pdf.**
