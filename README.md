@@ -10,7 +10,7 @@ This project focuses on conducting a risk assessment for a client and helping th
 The client has a fence around the perimeter of its property and a padlock on its entrance gate to prevent unauthorised access. However, the leadership team is concerned about potential risks and vulnerabilities that could compromise the security of its information and systems. They require a comprehensive risk assessment to identify potential security threats and vulnerabilities in their system or network.
 
 ## OBJECTIVES
-- **The goal of the risk assessment is to help the client prioritise and implement appropriate security measures to mitigate and minimise risks. This will ensure the confidentiality, integrity and availability of their information and systems, as well as protect their reputation and financial resources.
+- The goal of the risk assessment is to help the client prioritise and implement appropriate security measures to mitigate and minimise risks. This will ensure the confidentiality, integrity and availability of their information and systems, as well as protect their reputation and financial resources.
 
 ## TASKS
 - Identify the assets that need to be protected**. This could include sensitive information, customer data, financial information or any other critical assets that are important to the client.
@@ -21,7 +21,7 @@ The client has a fence around the perimeter of its property and a padlock on its
 - Create a risk assessment report for the client that summarises the risk assessment findings**
 
 ## TOOLS
-- Microsoft Excel
+- Microsoft Excel Software on Windows or MacOS
 - Risk Assessment Template
 
 ## LINKS
