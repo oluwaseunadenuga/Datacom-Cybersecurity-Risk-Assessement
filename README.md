@@ -25,7 +25,7 @@ The client has a fence around the perimeter of its property and a padlock on its
 - Risk Assessment Template
 
 - ## Links to sourced documents
-- **NIST Guide for Conducting Risk Assessments.**
+- **NIST Guide for Conducting Risk Assessments https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf  .**
 - **SO/IEC 27001:2013 Information technology - Security techniques - Information security management systems - Requirements.**
 - **SANS Institute: Risk Assessment Methodologies.**
 - **Guide to Getting Started with a Cybersecurity Risk Assessment.**
