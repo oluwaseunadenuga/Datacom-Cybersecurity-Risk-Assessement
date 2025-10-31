@@ -13,7 +13,7 @@ The client has a fence around the perimeter of its property and a padlock on its
 - The goal of the risk assessment is to help the client prioritise and implement appropriate security measures to mitigate and minimise risks. This will ensure the confidentiality, integrity and availability of their information and systems, as well as protect their reputation and financial resources.
 
 ## TASKS
-- Identify the assets that need to be protected**. This could include sensitive information, customer data, financial information or any other critical assets that are important to the client.
+- Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets that are important to the client.
 - Define the likelihood, consequence and risk rating for each potential risk scenario (Define the risk matrix).
 - Identify specific risks that the client needs to protect their assets from. i.e, cyberattack, natural disaster or employee negligence.
 - Assess risk rating for each risk scenario – Calculate the inherent risk rating for each scenario, assuming there are no measures in place to reduce the risk (without fence and padlock in place).
