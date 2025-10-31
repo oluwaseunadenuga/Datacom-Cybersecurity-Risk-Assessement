@@ -61,7 +61,8 @@ Based on the problem statement, below is a list of assets  to protect
 - **Cyberattack**
 - **Natural Disaster**
 - **Employee Negligence**
-  
+  <img width="1300" height="791" alt="image" src="https://github.com/user-attachments/assets/ddba5de6-2e33-4447-9e32-c5b982f6929b" />
+
 ## 3.0 Defense Strategy Against APT34
 To mitigate risks, the following multi-layered security measures are recommended:
 
