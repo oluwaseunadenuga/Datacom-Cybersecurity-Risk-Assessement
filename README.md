@@ -54,16 +54,13 @@ Based on the problem statement, below is a list of assets  to protect
 - **Customer Data: Personally Identifiable Information (PII) and financial records.** 
 - **Datacom Infrastructure: Servers, networking hardware, cloud environments, and databases.Energy companies** 
 
-## POTENTIAL RISKS
-<img width="1300" height="791" alt="image" src="https://github.com/user-attachments/assets/1669cd6d-a42f-4454-8ab2-f6fe6ff5a56e" />
-
-- **Data Breach**
-- **Infrastructure compromise**
-- **Supply chain attack**
+## LIKELY RISKS & INHERENT RISK RATING
 - **Cyberattack**
 - **Natural Disaster**
 - **Employee Negligence**
-
+- **Data Breach**
+- **Infrastructure compromise**
+- **Supply chain attack**
    <img width="1300" height="791" alt="image" src="https://github.com/user-attachments/assets/ddba5de6-2e33-4447-9e32-c5b982f6929b" />
 
 ## 3.0 Defense Strategy Against APT34
