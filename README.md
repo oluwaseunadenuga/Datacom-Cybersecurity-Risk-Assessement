@@ -34,7 +34,7 @@ Based on the problem statement, the following critical assets were identified as
 - Customer Data: Personally Identifiable Information (PII) and financial records.** 
 - ** Physical Infrastructure & Equipment: Servers, network hardware, and other critical physical assets.**
 
-## LIKELY RISKS & INHERENT RISK RATING
+## Likely Risks and Inherent Risk Rating
 - **Cyberattack**
 - **Natural Disaster**
 - **Employee Negligence**
@@ -48,7 +48,7 @@ Based on the problem statement, the following critical assets were identified as
 
 <img width="1496" height="584" alt="image" src="https://github.com/user-attachments/assets/b3019b7b-27d4-4587-bc51-79e68e877c74" />
 
-## 4.0 Risk Matrix and Recommendations
+## Risk Matrix and Recommendations
 
 <img width="842" height="295" alt="image" src="https://github.com/user-attachments/assets/7450c7da-a8e7-41f8-8ca8-2a3aeda630a8" />
 
