@@ -1,4 +1,4 @@
-## Datacom-Cybersecurity-Risk-Assessement 
+## Datacom Cybersecurity RiskAssessement 
 <img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
 
 ## INTRODUCTION
@@ -25,7 +25,7 @@ The client has a fence around the perimeter of its property and a padlock on its
 - Risk Assessment Template
 
 ## LINKS
-- **NIST Guide for Conducting Risk Assessments https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf .**
+- **NIST Guide for Conducting Risk Assessments https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf.**
 - **ISO/IEC 27001:2013 Information technology - Security techniques - Information security management systems - Requirements. https://www.iso.org/standard/27001**
 - **SANS Institute: Risk Assessment Methodologies https://www.sans.org/white-papers/32 .**
 - **Guide to Getting Started with a Cybersecurity Risk Assessment https://www.cisa.gov/sites/default/files/video/22_1201_safecom_guide_to_cybersecurity_risk_assessment_508-r1.pdf.**
@@ -42,7 +42,7 @@ The client has a fence around the perimeter of its property and a padlock on its
 - **Current risk rating: The risk rating of a scenario with existing measures in place to reduce the risk.**
 - **Target risk rating: The desired risk rating of a scenario with additional measures put in place to further reduce the risk.**
 - **Risk assessment report: A report that summarises the risk assessment findings, the risk mitigation strategy, and any recommended measures for implementation.**
-- **Avoid risk: completely eliminate or forego risk.**
+- **Avoid risk: Eliminate or forego risk.**
 - **Treat risk: reduce the likelihood or impact of risk.**
 - **Transfer risk: assign or move the risk to a third party.**
 - **Accept risk: acknowledge the risk and choose not to resolve, transfer or mitigate.**
