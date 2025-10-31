@@ -1,4 +1,4 @@
-## Conducting Cybersecurity Risk Assessment for an Information Technology services company, 
+## Conducting Cybersecurity Risk Assessment for an Information Technology services company
 <img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
 
 ## INTRODUCTION
@@ -86,7 +86,7 @@ This risk assessment has identified several critical risks, with Data Breach and
 
 1.	**Immediate Action (High Priority):**
 - **Address Data Breach Risk (R04): Prioritise the implementation of Data Loss Prevention (DLP) tools and comprehensive encryption for data at rest and in transit.**
-- **Strengthen Access Security (R01, R03): Enforce Multi-Factor Authentication (MFA) across all critical systems and implement Role-Based Access Control (RBAC) to enforce the principle of least privilege.
+- **Strengthen Access Security (R01, R03): Enforce Multi-Factor Authentication (MFA) across all critical systems and implement Role-Based Access Control (RBAC) to enforce the principle of least privilege..**
 
 2.**	Medium-Term Initiatives (Medium Priority):**
 - **Enhance Monitoring and Response (R01, R04, R05): Advance the SIEM capabilities and deploy Endpoint Detection and Response (EDR) solutions for superior threat detection and response.**
@@ -95,8 +95,8 @@ This risk assessment has identified several critical risks, with Data Breach and
 
 3.	Ongoing Programs (Continuous Priority):
 - **Continuous Vulnerability Management (R05): Implement a program for continuous scanning and patching of systems.**
-- **Security Awareness Training (R01, R03): Maintain regular, engaging training to combat employee negligence and phishing
-- **Vendor Risk Management (R06): Formalise vendor security assessments and introduce continuous monitoring.
+- **Security Awareness Training (R01, R03): Maintain regular, engaging training to combat employee negligence and phishing.**
+- **Vendor Risk Management (R06): Formalise vendor security assessments and introduce continuous monitoring.**
 
 By following these recommendations, the organisation can effectively transition from a reactive to a proactive security stance, significantly reducing its overall risk profile and enhancing its resilience against cyber threats.
 
