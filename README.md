@@ -62,20 +62,20 @@ Based on the problem statement, below is a list of assets  to protect
 - **Supply chain attack**
    <img width="1300" height="791" alt="image" src="https://github.com/user-attachments/assets/ddba5de6-2e33-4447-9e32-c5b982f6929b" />
 
-# CURRENT RISK RATING & TARGET RISK RATING 
+## Current Risk Rating & Target Risk Rating 
 <img width="1489" height="684" alt="image" src="https://github.com/user-attachments/assets/e58ad1af-4fdb-4233-9f49-4c83aee46c4f" />
 
 <img width="1496" height="584" alt="image" src="https://github.com/user-attachments/assets/b3019b7b-27d4-4587-bc51-79e68e877c74" />
 
-## 4.0 RISK MATRIX AND RECOMMENDATIONS
+## 4.0 Risk Matrix and Recommendations
 
 <img width="842" height="295" alt="image" src="https://github.com/user-attachments/assets/7450c7da-a8e7-41f8-8ca8-2a3aeda630a8" />
 
-________________________________________
-6. Risk Assessment Summary & Recommendations
+## Risk Assessment Summary & Recommendations
 
 ## Executive Summary:
 This risk assessment has identified several critical risks, with Data Breach and Cyber Attack posing the most significant inherent threat to the organisation. However, the analysis demonstrates that with the implementation of a combination of existing and proposed additional security controls, these risks can be reduced to manageable levels. The overall cybersecurity posture can be significantly strengthened, aligning with industry best practices.
+
 Key Findings:
 1.	Top Threats: Cyber attacks targeting data and infrastructure are the most probable and impactful threats.
 2.	Human Factor: Employee negligence remains a notable risk, but it can be effectively mitigated through training and technical controls.
@@ -83,13 +83,16 @@ Key Findings:
 4.	Effectiveness of Controls: The proposed technical controls (e.g., MFA, ZTA, DLP, EDR) are rated as "Excellent" or "Good" and will provide substantial risk reduction.
 
 ## Prioritised Recommendations:
+
 1.	Immediate Action (High Priority):
 o	Address Data Breach Risk (R04): Prioritise the implementation of Data Loss Prevention (DLP) tools and comprehensive encryption for data at rest and in transit.
 o	Strengthen Access Security (R01, R03): Enforce Multi-Factor Authentication (MFA) across all critical systems and implement Role-Based Access Control (RBAC) to enforce the principle of least privilege.
+
 2.	Medium-Term Initiatives (Medium Priority):
 o	Enhance Monitoring and Response (R01, R04, R05): Advance the SIEM capabilities and deploy Endpoint Detection and Response (EDR) solutions for superior threat detection and response.
 o	Implement Zero Trust (R06): Begin the architectural shift towards a Zero Trust Model to protect against supply chain and lateral movement attacks.
 o	Validate Security Posture (R01, R05): Conduct regular penetration testing and red/blue team exercises to proactively find and fix weaknesses.
+
 3.	Ongoing Programs (Continuous Priority):
 o	Continuous Vulnerability Management (R05): Implement a program for continuous scanning and patching of systems.
 o	Security Awareness Training (R01, R03): Maintain regular, engaging training to combat employee negligence and phishing.
