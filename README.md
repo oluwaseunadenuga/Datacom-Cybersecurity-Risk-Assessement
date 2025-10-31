@@ -48,23 +48,12 @@ The client has a fence around the perimeter of its property and a padlock on its
 - **Accept risk: acknowledge the risk and choose not to resolve, transfer or mitigate.**
 
 
-## Nation/State Association
-APT34 is widely attributed to Iran, with operations aligning closely with the nation’s strategic and geopolitical goals.
+## ASSET INVENTORY
+Based on the problem statement, below is a list of assets  to protect
+- **Sensitive Information: Intellectual property, internal communications, and strategic plans.**
+- **Customer Data: Personally Identifiable Information (PII) and financial records.** 
+- **Datacom Infrastructure: Servers, networking hardware, cloud environments, and databases.Energy companies** 
 
-## Targeted Industries
-The group targets:
-- **Government agencies**
-- **Financial institutions** 
-- **Energy companies** 
-- **Telecommunications**
-- **Defense contractor**
-- **Critical infrastructures** 
-
-## Motives
-APT34’s primary motive is espionage. The group seeks to collect:
-- **Sensitive information to support state objectives**
-- **Gain strategic advantages in geopolitical conflicts** 
-- **Disrupt adversarial operations in key sectors**
 
 ## 2.0 APT34 Tactics, Techniques and Procedures (TTPs)
 **Using the MITRE ATT&CK Framework, APT34’s TTPs include:**
