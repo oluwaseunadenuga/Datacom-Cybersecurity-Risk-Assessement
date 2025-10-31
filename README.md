@@ -1,4 +1,4 @@
-## Datacom Cybersecurity RiskAssessement 
+## Datacom Cybersecurity Risk Assessement 
 <img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
 
 ## INTRODUCTION
