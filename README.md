@@ -65,7 +65,7 @@ Based on the problem statement, below is a list of assets  to protect
 
 # CURRENT RISK RATING & TARGET RISK RATING 
 <img width="1489" height="684" alt="image" src="https://github.com/user-attachments/assets/e58ad1af-4fdb-4233-9f49-4c83aee46c4f" />
-
+<img width="1496" height="584" alt="image" src="https://github.com/user-attachments/assets/b3019b7b-27d4-4587-bc51-79e68e877c74" />
 
 ## 4.0 CONCLUSION AND RECOMMENDATIONS
 APT34’s sophisticated tactics and nation-state backing make it a persistent and formidable threat. The client should:
