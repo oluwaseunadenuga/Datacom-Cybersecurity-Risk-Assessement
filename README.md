@@ -70,7 +70,7 @@ Based on the problem statement, the following critical assets were identified as
 
 ## Risk Assessment Summary & Recommendations
 
-## Executive Summary:
+## Executive Summary
 This risk assessment has identified several critical risks, with Data Breach and Cyber Attack posing the most significant inherent threat to the organisation. However, the analysis demonstrates that with the implementation of a combination of existing and proposed additional security controls, these risks can be reduced to manageable levels. The overall cybersecurity posture can be significantly strengthened, aligning with industry best practices.
 
 **Key Findings:**
@@ -79,18 +79,18 @@ This risk assessment has identified several critical risks, with Data Breach and
 3.**External Dependencies:** Supply chain and vendor-related risks require ongoing management and vigilance.
 4.	**Effectiveness of Controls:** The proposed technical controls (e.g., MFA, ZTA, DLP, EDR) are rated as "Excellent" or "Good" and will provide substantial risk reduction.
 
-## Prioritised Recommendations:
+## Prioritised Recommendations
 
 1.	**Immediate Action (High Priority):**
 - **Address Data Breach Risk (R04): Prioritise the implementation of Data Loss Prevention (DLP) tools and comprehensive encryption for data at rest and in transit.**
 - **Strengthen Access Security (R01, R03): Enforce Multi-Factor Authentication (MFA) across all critical systems and implement Role-Based Access Control (RBAC) to enforce the principle of least privilege..**
 
-2.**	Medium-Term Initiatives (Medium Priority):**
+2.**Medium-Term Initiatives (Medium Priority):**
 - **Enhance Monitoring and Response (R01, R04, R05): Advance the SIEM capabilities and deploy Endpoint Detection and Response (EDR) solutions for superior threat detection and response.**
 - **Implement Zero Trust (R06): Begin the architectural shift towards a Zero Trust Model to protect against supply chain and lateral movement attacks.**
 - **Validate Security Posture (R01, R05): Conduct regular penetration testing and red/blue team exercises to proactively find and fix weaknesses..**
 
-3.	Ongoing Programs (Continuous Priority):
+**3.Ongoing Programs (Continuous Priority)**
 - **Continuous Vulnerability Management (R05): Implement a program for continuous scanning and patching of systems.**
 - **Security Awareness Training (R01, R03): Maintain regular, engaging training to combat employee negligence and phishing.**
 - **Vendor Risk Management (R06): Formalise vendor security assessments and introduce continuous monitoring.**
