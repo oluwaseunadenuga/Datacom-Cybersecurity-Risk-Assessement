@@ -74,10 +74,10 @@ Based on the problem statement, the following critical assets were identified as
 This risk assessment has identified several critical risks, with Data Breach and Cyber Attack posing the most significant inherent threat to the organisation. However, the analysis demonstrates that with the implementation of a combination of existing and proposed additional security controls, these risks can be reduced to manageable levels. The overall cybersecurity posture can be significantly strengthened, aligning with industry best practices.
 
 **Key Findings:**
-1.**Top Threats**: Cyber attacks targeting data and infrastructure are the most probable and impactful threats.
-2.**Human Factor:** Employee negligence remains a notable risk, but it can be effectively mitigated through training and technical controls.
-3.**External Dependencies:** Supply chain and vendor-related risks require ongoing management and vigilance.
-4.	**Effectiveness of Controls:** The proposed technical controls (e.g., MFA, ZTA, DLP, EDR) are rated as "Excellent" or "Good" and will provide substantial risk reduction.
+-**Top Threats**: Cyber attacks targeting data and infrastructure are the most probable and impactful threats.
+-**Human Factor:** Employee negligence remains a notable risk, but it can be effectively mitigated through training and technical controls.
+-**External Dependencies:** Supply chain and vendor-related risks require ongoing management and vigilance.
+-**Effectiveness of Controls:** The proposed technical controls (e.g., MFA, ZTA, DLP, EDR) are rated as "Excellent" or "Good" and will provide substantial risk reduction.
 
 ## Prioritised Recommendations
 
