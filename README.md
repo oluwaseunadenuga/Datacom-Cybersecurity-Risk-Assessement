@@ -47,7 +47,6 @@ The client has a fence around the perimeter of its property and a padlock on its
 - **Transfer risk: assign or move the risk to a third party.**
 - **Accept risk: acknowledge the risk and choose not to resolve, transfer or mitigate.**
 
-
 ## ASSET INVENTORY
 Based on the problem statement, below is a list of assets  to protect
 - **Sensitive Information: Intellectual property, internal communications, and strategic plans.**
@@ -65,13 +64,13 @@ Based on the problem statement, below is a list of assets  to protect
 
 # CURRENT RISK RATING & TARGET RISK RATING 
 <img width="1489" height="684" alt="image" src="https://github.com/user-attachments/assets/e58ad1af-4fdb-4233-9f49-4c83aee46c4f" />
+
 <img width="1496" height="584" alt="image" src="https://github.com/user-attachments/assets/b3019b7b-27d4-4587-bc51-79e68e877c74" />
 
-## 4.0 CONCLUSION AND RECOMMENDATIONS
-APT34’s sophisticated tactics and nation-state backing make it a persistent and formidable threat. The client should:
-- Implement the recommended defence strategies to strengthen their security posture.
-- Regularly update and test their defenses based on emerging threat intelligence.
-- Foster a culture of security awareness among employees to reduce human error.
+## 4.0 RISK MATRIX AND RECOMMENDATIONS
+
+<img width="842" height="295" alt="image" src="https://github.com/user-attachments/assets/7450c7da-a8e7-41f8-8ca8-2a3aeda630a8" />
+
 
 By adopting these measures, the client can significantly reduce the risk of successful APT34 attacks and enhance resilience against future threat targets. Top Wastage Causes.
   
