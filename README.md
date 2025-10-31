@@ -76,7 +76,7 @@ Based on the problem statement, below is a list of assets  to protect
 ## Executive Summary:
 This risk assessment has identified several critical risks, with Data Breach and Cyber Attack posing the most significant inherent threat to the organisation. However, the analysis demonstrates that with the implementation of a combination of existing and proposed additional security controls, these risks can be reduced to manageable levels. The overall cybersecurity posture can be significantly strengthened, aligning with industry best practices.
 
-Key Findings:
+**Key Findings:**
 1.	Top Threats: Cyber attacks targeting data and infrastructure are the most probable and impactful threats.
 2.	Human Factor: Employee negligence remains a notable risk, but it can be effectively mitigated through training and technical controls.
 3.	External Dependencies: Supply chain and vendor-related risks require ongoing management and vigilance.
@@ -84,14 +84,17 @@ Key Findings:
 
 ## Prioritised Recommendations:
 
-1.	Immediate Action (High Priority):
-o	Address Data Breach Risk (R04): Prioritise the implementation of Data Loss Prevention (DLP) tools and comprehensive encryption for data at rest and in transit.
-o	Strengthen Access Security (R01, R03): Enforce Multi-Factor Authentication (MFA) across all critical systems and implement Role-Based Access Control (RBAC) to enforce the principle of least privilege.
+1.	**Immediate Action (High Priority):**
+- **Address Data Breach Risk (R04): Prioritise the implementation of Data Loss Prevention (DLP) tools and comprehensive encryption for data at rest and in transit.**
+- **Strengthen Access Security (R01, R03): Enforce Multi-Factor Authentication (MFA) across all critical systems and implement Role-Based Access Control (RBAC) to enforce the principle of least privilege.
+- **SANS Institute: Risk Assessment Methodologies https://www.sans.org/white-papers/32.**
+- **Guide to Getting Started with a Cybersecurity Risk Assessment https://www.cisa.gov/sites/default/files/video/22_1201_safecom_guide_to_cybersecurity_risk_assessment_508-r1.pdf.**
+- **The Open Group Risk Management Standard https://www.opengroup.org/forum/security-forum-0/securityriskmanagement.**
 
-2.	Medium-Term Initiatives (Medium Priority):
-o	Enhance Monitoring and Response (R01, R04, R05): Advance the SIEM capabilities and deploy Endpoint Detection and Response (EDR) solutions for superior threat detection and response.
-o	Implement Zero Trust (R06): Begin the architectural shift towards a Zero Trust Model to protect against supply chain and lateral movement attacks.
-o	Validate Security Posture (R01, R05): Conduct regular penetration testing and red/blue team exercises to proactively find and fix weaknesses.
+2.**	Medium-Term Initiatives (Medium Priority):**
+- **Enhance Monitoring and Response (R01, R04, R05): Advance the SIEM capabilities and deploy Endpoint Detection and Response (EDR) solutions for superior threat detection and response.**
+- **Implement Zero Trust (R06): Begin the architectural shift towards a Zero Trust Model to protect against supply chain and lateral movement attacks.**
+- **Validate Security Posture (R01, R05): Conduct regular penetration testing and red/blue team exercises to proactively find and fix weaknesses..**
 
 3.	Ongoing Programs (Continuous Priority):
 o	Continuous Vulnerability Management (R05): Implement a program for continuous scanning and patching of systems.
