@@ -54,12 +54,14 @@ Based on the problem statement, below is a list of assets  to protect
 - **Customer Data: Personally Identifiable Information (PII) and financial records.** 
 - **Datacom Infrastructure: Servers, networking hardware, cloud environments, and databases.Energy companies** 
 
-
-## Tools Associated with APT34
-- **PoisonFrog: A backdoor for remote access**
-- **PowBat: A PowerShell-based tool**
-- **TwoFace: A web shell**
-
+## POTENTIAL RISKS
+- ****Data Breach**
+- **Infrastructure compromise**
+- **Supply chain attack**
+- **Cyberattack**
+- **Natural Disaster**
+- **Employee Negligence****
+  
 ## 3.0 Defense Strategy Against APT34
 To mitigate risks, the following multi-layered security measures are recommended:
 
