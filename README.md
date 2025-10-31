@@ -1,18 +1,18 @@
-## Conducting Cybersecurity Risk Assessment for an Information Technology services company
+## Conducting Cybersecurity Risk Assessment for an Information Technology Services Company
 <img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
 
-## INTRODUCTION
+## Introduction
 Datacom is an Information Technology services company, offering management and consulting, cloud services, ITO, data center services, custom software development and payroll services. Datacom is the largest technology company in New Zealand. This project focuses on conducting a risk assessment for the organisation, define the context, assess their risk matrix and identify potential risk scenarios.
 
 <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/93c86d1d-d95b-489a-88bc-55bf745eb839" />
 
-## PROBLEM STATEMENT
+## Problem Statement
 The client has a fence around the perimeter of its property and a padlock on its entrance gate to prevent unauthorised access. However, the leadership team is concerned about potential risks and vulnerabilities that could compromise the security of its information and systems. They require a comprehensive risk assessment to identify potential security threats and vulnerabilities in their system or network.
 
-## OBJECTIVES
+## Objectives
 - The goal of the risk assessment is to help the client prioritise and implement appropriate security measures to mitigate and minimise risks. This will ensure the confidentiality, integrity and availability of their information and systems, as well as protect their reputation and financial resources.
 
-## TASKS
+## Tasks
 - Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets that are important to the client.
 - Define the likelihood, consequence and risk rating for each potential risk scenario (Define the risk matrix).
 - Identify specific risks that the client needs to protect their assets from. i.e, cyberattack, natural disaster or employee negligence.
@@ -20,18 +20,11 @@ The client has a fence around the perimeter of its property and a padlock on its
 - Assess risk levels for each risk scenario with additional measures:**
 - Create a risk assessment report for the client that summarises the risk assessment findings**
 
-## TOOLS
+## Tools
 - Microsoft Excel Software on Windows or MacOS
 - Risk Assessment Template
 
-## LINKS
-- **NIST Guide for Conducting Risk Assessments https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf.**
-- **ISO/IEC 27001:2013 Information technology - Security techniques - Information security management systems-Requirements. https://www.iso.org/standard/27001**
-- **SANS Institute: Risk Assessment Methodologies https://www.sans.org/white-papers/32.**
-- **Guide to Getting Started with a Cybersecurity Risk Assessment https://www.cisa.gov/sites/default/files/video/22_1201_safecom_guide_to_cybersecurity_risk_assessment_508-r1.pdf.**
-- **The Open Group Risk Management Standard https://www.opengroup.org/forum/security-forum-0/securityriskmanagement.**
-
-## DEFINITIONS
+## Definitions
 - **Risk assessment: a process of identifying potential risks, analysing their likelihood and potential impact, and implementing measures to mitigate those risks.**
 - **Risk position: The level of risk that an organisation faces.**
 - **Risk matrix: A tool used to assess and evaluate risks based on the likelihood and consequence of a risk event occurring.**
@@ -47,11 +40,15 @@ The client has a fence around the perimeter of its property and a padlock on its
 - **Transfer risk: assign or move the risk to a third party.**
 - **Accept risk: acknowledge the risk and choose not to resolve, transfer or mitigate.**
 
-## ASSET INVENTORY
-Based on the problem statement, below is a list of assets  to protect
-- **Sensitive Information: Intellectual property, internal communications, and strategic plans.**
-- **Customer Data: Personally Identifiable Information (PII) and financial records.** 
-- **Datacom Infrastructure: Servers, networking hardware, cloud environments, and databases.Energy companies** 
+## Identification of Critical Assets
+Based on the problem statement, the following critical assets were identified as requiring protection. The compromise of these assets could lead to significant operational, financial, and reputational damage to the organisation.
+- **Confidential Customer Data: Personal and sensitive information belonging to customers.**
+- Sensitive Information: Intellectual property, internal communications, and strategic plans.**
+- **Proprietary Business Information: Internal data that provides a competitive advantage.**
+- **Financial Information: Company financial records, transaction data, and banking details.**
+- **Intellectual Property: Patents, trade secrets, designs, and proprietary software.**
+- Customer Data: Personally Identifiable Information (PII) and financial records.** 
+- ** Physical Infrastructure & Equipment: Servers, network hardware, and other critical physical assets.**
 
 ## LIKELY RISKS & INHERENT RISK RATING
 - **Cyberattack**
@@ -80,7 +77,7 @@ This risk assessment has identified several critical risks, with Data Breach and
 1.**Top Threats**: Cyber attacks targeting data and infrastructure are the most probable and impactful threats.
 2.**Human Factor:** Employee negligence remains a notable risk, but it can be effectively mitigated through training and technical controls.
 3.**External Dependencies:** Supply chain and vendor-related risks require ongoing management and vigilance.
-4.	**Effectiveness of Controls:**The proposed technical controls (e.g., MFA, ZTA, DLP, EDR) are rated as "Excellent" or "Good" and will provide substantial risk reduction.
+4.	**Effectiveness of Controls:** The proposed technical controls (e.g., MFA, ZTA, DLP, EDR) are rated as "Excellent" or "Good" and will provide substantial risk reduction.
 
 ## Prioritised Recommendations:
 
