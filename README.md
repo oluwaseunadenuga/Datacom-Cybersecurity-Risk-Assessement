@@ -55,12 +55,12 @@ Based on the problem statement, below is a list of assets  to protect
 - **Datacom Infrastructure: Servers, networking hardware, cloud environments, and databases.Energy companies** 
 
 ## POTENTIAL RISKS
-- ****Data Breach**
+- **Data Breach**
 - **Infrastructure compromise**
 - **Supply chain attack**
 - **Cyberattack**
 - **Natural Disaster**
-- **Employee Negligence****
+- **Employee Negligence**
   
 ## 3.0 Defense Strategy Against APT34
 To mitigate risks, the following multi-layered security measures are recommended:
