@@ -55,7 +55,7 @@ Based on the problem statement, the following critical assets were identified as
 ## Risk Assessment Summary & Recommendations
 
 ## Executive Summary
-This risk assessment has identified several critical risks, with Data Breach and Cyber Attack posing the most significant inherent threat to the organisation. However, the analysis demonstrates that with the implementation of a combination of existing and proposed additional security controls, these risks can be reduced to manageable levels. The overall cybersecurity posture can be significantly strengthened, aligning with industry best practices.
+This risk assessment has identified several critical risks, with Data Breach and Cyber Attack posing the most significant inherent threat to the organisation. However, the analysis demonstrates that implementing a combination of existing and proposed security controls can reduce these risks to manageable levels. The overall cybersecurity posture can be significantly strengthened, aligning with industry best practices.
 
 **Key Findings:**
 - **Top Threats**: Cyber attacks targeting data and infrastructure are the most probable and impactful threats.**
@@ -82,4 +82,4 @@ This risk assessment has identified several critical risks, with Data Breach and
 By following these recommendations, the organisation can effectively transition from a reactive to a proactive security stance, significantly reducing its overall risk profile and enhancing its resilience against cyber threats.
 
 
- ## THANK YOU
+ ## Thank You
