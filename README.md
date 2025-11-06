@@ -21,8 +21,8 @@ The goal of the risk assessment is to help the client prioritise and implement a
 - Define the likelihood, consequence and risk rating for each potential risk scenario (Define the risk matrix).
 - Identify specific risks that the client needs to protect their assets from. i.e, cyberattack, natural disaster or employee negligence.
 - Assess risk rating for each risk scenario – Calculate the inherent risk rating for each scenario, assuming there are no measures in place to reduce the risk (without fence and padlock in place).
-- Assess risk levels for each risk scenario with additional measures:**
-- Create a risk assessment report for the client that summarises the risk assessment findings**
+- Assess risk levels for each risk scenario with additional measures.
+- Create a risk assessment report for the client that summarises the risk assessment findings.
 
 ## Tools
 
@@ -33,11 +33,11 @@ The goal of the risk assessment is to help the client prioritise and implement a
 
 Based on the problem statement, the following critical assets were identified as requiring protection. The compromise of these assets could lead to significant operational, financial, and reputational damage to the organisation.
 - **Confidential Customer Data: Personal and sensitive information belonging to customers.**
-- Sensitive Information: Intellectual property, internal communications, and strategic plans.**
+- Sensitive Information: Intellectual property, internal communications, and strategic plans.
 - **Proprietary Business Information: Internal data that provides a competitive advantage.**
 - **Financial Information: Company financial records, transaction data, and banking details.**
 - **Intellectual Property: Patents, trade secrets, designs, and proprietary software.**
-- Customer Data: Personally Identifiable Information (PII) and financial records.** 
+- Customer Data: Personally Identifiable Information (PII) and financial records.
 - ** Physical Infrastructure & Equipment: Servers, network hardware, and other critical physical assets.**
 
 ## Likely Risks and Inherent Risk Rating
