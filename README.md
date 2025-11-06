@@ -38,7 +38,7 @@ Based on the problem statement, the following critical assets were identified as
 - **Financial Information: Company financial records, transaction data, and banking details.**
 - **Intellectual Property: Patents, trade secrets, designs, and proprietary software.**
 - Customer Data: Personally Identifiable Information (PII) and financial records.
-- ** Physical Infrastructure & Equipment: Servers, network hardware, and other critical physical assets.**
+- Physical Infrastructure & Equipment: Servers, network hardware, and other critical physical assets.
 
 ## Likely Risks and Inherent Risk Rating
 - **Cyberattack**
@@ -66,10 +66,10 @@ Based on the problem statement, the following critical assets were identified as
 This risk assessment has identified several critical risks, with Data Breach and Cyber Attack posing the most significant inherent threat to the organisation. However, the analysis demonstrates that implementing a combination of existing and proposed security controls can reduce these risks to manageable levels. The overall cybersecurity posture can be significantly strengthened, aligning with industry best practices.
 
 **Key Findings:**
-- **Top Threats**: Cyber attacks targeting data and infrastructure are the most probable and impactful threats.**
-- **Human Factor:** Employee negligence remains a notable risk, but it can be effectively mitigated through training and technical controls.**
-- **External Dependencies:** Supply chain and vendor-related risks require ongoing management and vigilance.**
-- **Effectiveness of Controls:** The proposed technical controls (e.g., MFA, ZTA, DLP, EDR) are rated as "Excellent" or "Good" and will provide substantial risk reduction.**
+- **Top Threats**: Cyber attacks targeting data and infrastructure are the most probable and impactful threats.
+- **Human Factor:Employee negligence remains a notable risk, but it can be effectively mitigated through training and technical controls.
+- **External Dependencies:Supply chain and vendor-related risks require ongoing management and vigilance.
+- **Effectiveness of Controls: The proposed technical controls (e.g., MFA, ZTA, DLP, EDR) are rated as "Excellent" or "Good" and will provide substantial risk reduction.
 
 ## Prioritised Recommendations
 
