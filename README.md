@@ -2,17 +2,21 @@
 <img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
 
 ## Introduction
+
 Datacom is an Information Technology services company, offering management and consulting, cloud services, ITO, data center services, custom software development and payroll services. Datacom is the largest technology company in New Zealand. This project focuses on conducting a risk assessment for the organisation, define the context, assess their risk matrix and identify potential risk scenarios.
 
 <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/93c86d1d-d95b-489a-88bc-55bf745eb839" />
 
 ## Problem Statement
+
 The client has a fence around the perimeter of its property and a padlock on its entrance gate to prevent unauthorised access. However, the leadership team is concerned about potential risks and vulnerabilities that could compromise the security of its information and systems. They require a comprehensive risk assessment to identify potential security threats and vulnerabilities in their system or network.
 
 ## Objectives
-- The goal of the risk assessment is to help the client prioritise and implement appropriate security measures to mitigate and minimise risks. This will ensure the confidentiality, integrity and availability of their information and systems, as well as protect their reputation and financial resources.
+
+The goal of the risk assessment is to help the client prioritise and implement appropriate security measures to mitigate and minimise risks. This will ensure the confidentiality, integrity and availability of their information and systems, as well as protect their reputation and financial resources.
 
 ## Tasks
+
 - Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets that are important to the client.
 - Define the likelihood, consequence and risk rating for each potential risk scenario (Define the risk matrix).
 - Identify specific risks that the client needs to protect their assets from. i.e, cyberattack, natural disaster or employee negligence.
@@ -21,10 +25,12 @@ The client has a fence around the perimeter of its property and a padlock on its
 - Create a risk assessment report for the client that summarises the risk assessment findings**
 
 ## Tools
+
 - Microsoft Excel Software on Windows or MacOS
 - Risk Assessment Template
 
 ## Identification of Critical Assets
+
 Based on the problem statement, the following critical assets were identified as requiring protection. The compromise of these assets could lead to significant operational, financial, and reputational damage to the organisation.
 - **Confidential Customer Data: Personal and sensitive information belonging to customers.**
 - Sensitive Information: Intellectual property, internal communications, and strategic plans.**
@@ -41,9 +47,11 @@ Based on the problem statement, the following critical assets were identified as
 - **Data Breach**
 - **Infrastructure compromise**
 - **Supply chain attack**
+
    <img width="1300" height="791" alt="image" src="https://github.com/user-attachments/assets/ddba5de6-2e33-4447-9e32-c5b982f6929b" />
 
 ## Current Risk Rating & Target Risk Rating 
+
 <img width="1489" height="684" alt="image" src="https://github.com/user-attachments/assets/e58ad1af-4fdb-4233-9f49-4c83aee46c4f" />
 
 <img width="1496" height="584" alt="image" src="https://github.com/user-attachments/assets/b3019b7b-27d4-4587-bc51-79e68e877c74" />
