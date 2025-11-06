@@ -68,8 +68,8 @@ This risk assessment has identified several critical risks, with Data Breach and
 **Key Findings:**
 - **Top Threats**: Cyber attacks targeting data and infrastructure are the most probable and impactful threats.
 - **Human Factor:Employee negligence remains a notable risk, but it can be effectively mitigated through training and technical controls.
-- **External Dependencies:Supply chain and vendor-related risks require ongoing management and vigilance.
-- **Effectiveness of Controls: The proposed technical controls (e.g., MFA, ZTA, DLP, EDR) are rated as "Excellent" or "Good" and will provide substantial risk reduction.
+- **External Dependencies:Supply chain and vendor-related risks require ongoing management and vigilance.**
+- **Effectiveness of Controls: The proposed technical controls (e.g., MFA, ZTA, DLP, EDR) are rated as "Excellent" or "Good" and will provide substantial risk reduction.**
 
 ## Prioritised Recommendations
 
