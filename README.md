@@ -75,7 +75,7 @@ This risk assessment has identified several critical risks, with Data Breach and
 
 1.	**Immediate Action (High Priority):**
 - **Address Data Breach Risk (R04): Prioritise the implementation of Data Loss Prevention (DLP) tools and comprehensive encryption for data at rest and in transit.**
-- **Strengthen Access Security (R01, R03): Enforce Multi-Factor Authentication (MFA) across all critical systems and implement Role-Based Access Control (RBAC) to enforce the principle of least privilege..**
+- **Strengthen Access Security (R01, R03): Enforce Multi-Factor Authentication (MFA) across all critical systems and implement Role-Based Access Control (RBAC) to enforce the principle of least privilege.**
 
 2.**Medium-Term Initiatives (Medium Priority):**
 - **Enhance Monitoring and Response (R01, R04, R05): Advance the SIEM capabilities and deploy Endpoint Detection and Response (EDR) solutions for superior threat detection and response.**
@@ -93,6 +93,6 @@ By following these recommendations, the organisation can effectively transition 
 This repository and all associated files are for educational purposes only and were created as part of a Forage cybersecurity lab exercise. 
 
 Author
-Oluwaseun adenuga 30/11/2025
+- Oluwaseun adenuga 30/11/2025
 
  ## Thank You
