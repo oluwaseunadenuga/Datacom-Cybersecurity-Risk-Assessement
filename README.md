@@ -82,7 +82,7 @@ This risk assessment has identified several critical risks, with Data Breach and
 By following these recommendations, the organisation can effectively transition from a reactive to a proactive security stance, significantly reducing its overall risk profile and enhancing its resilience against cyber threats.
 
 ## Disclaimer
-This repository and all associated files are for educational purposes only and were created as part of a cybersecurity lab exercise. The vulnerability scans and configurations were performed in a controlled lab environment on virtual machines specifically set up for this training. No real-world or production systems were targeted, and the scans were executed in accordance with ethical hacking guidelines and with respect to privacy and legality. This content is not intended for use as a guide for malicious hacking, and the author does not condone unauthorized or illegal use of the information provided. The techniques and methods demonstrated here should not be applied without proper authorization and within the bounds of applicable laws and regulations.
+This repository and all associated files are for educational purposes only and were created as part of a Forage cybersecurity lab exercise. 
 
 Author
 Oluwaseun adenuga 30/11/2025
