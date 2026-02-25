@@ -93,6 +93,6 @@ By following these recommendations, the organisation can effectively transition 
 This repository and all associated files are for educational purposes only and were created as part of a Forage cybersecurity lab exercise. 
 
 Author
-- Oluwaseun adenuga 30/11/2025
+- Oluwaseun Adenuga 30/11/2025
 
  ## Thank You
